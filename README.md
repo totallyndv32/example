@@ -1,3 +1,3 @@
 # example
 
-branch `master`
+branch `b3`
